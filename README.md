@@ -1,4 +1,4 @@
-# 🩺 UAE Cancer Patient Exploratory Data Analysis (Python Project)"
+# 🩺 UAE Cancer Patient Exploratory Data Analysis (Python Project)
 
 ## 📌 Project Overview
 
